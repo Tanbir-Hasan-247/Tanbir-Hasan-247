@@ -92,5 +92,5 @@
 
 ---
 <div align="center">
-  <img src="https://img.shields.io/badge/Designed_with-passion-EAB308?style=flat-square" alt="Designed with Tanbir Hasan" />
+  <img src="https://img.shields.io/badge/Designed_with-Tanbir Hasan-EAB308?style=flat-square" alt="Designed with Tanbir Hasan" />
 </div>
