@@ -14,7 +14,7 @@
 - 💡 Solving challenges with code—focusing on the intersection of web development and algorithms.
 - 🔬 Conducting final thesis on **Hate Speech Detection** using multilingual datasets.
 - ⚡ Actively engaged in Competitive Programming to sharpen problem-solving skills.
-- 📫 Reach me at: **[tanbirhasan@gmail.com](mailto:tanbirhasan@gmail.com)**
+- 📫 Reach me at: **[tanbirhasan@gmail.com](mailto:tanbirhasan569@gmail.com)**
 
 ### 🛠️ Tech Stack & Tools
 
@@ -82,7 +82,7 @@
   <a href="https://fb.com/profile.php?id=100067381342853" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:tanbirhasan@gmail.com">
+  <a href="mailto:tanbirhasan569@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://tanbir-hasan-247.github.io/Tanbir-Hasan/" target="_blank">
